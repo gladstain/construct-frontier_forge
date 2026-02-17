@@ -1,0 +1,65 @@
+- type: jukebox
+  id: Bigband_Galopp
+  name: "Bigband Galopp"
+  path:
+    path: "/Audio/_Construct/Jukebox/Bigband_Galopp.ogg"
+
+- type: jukebox
+  id: Kalinka
+  name: "Калинка"
+  path:
+    path: '/Audio/_Construct/Jukebox/Kalinka.ogg'
+
+- type: jukebox
+  id: karusel
+  name: "Карусель"
+  path:
+    path: '/Audio/_Construct/Jukebox/karusel.ogg'
+
+- type: jukebox
+  id: king_win
+  name: "Победивший Король"
+  path:
+    path: '/Audio/_Construct/Jukebox/king_win.ogg'
+
+- type: jukebox
+  id: koleso
+  name: "Чертово Колесо"
+  path:
+    path: '/Audio/_Construct/Jukebox/koleso.ogg'
+
+- type: jukebox
+  id: Komajn
+  name: "комбайн"
+  path:
+    path: '/Audio/_Construct/Jukebox/Kombajn.ogg'
+
+- type: jukebox
+  id: otebe
+  name: "о тебе"
+  path:
+    path: '/Audio/_Construct/Jukebox/otebe.ogg'
+
+- type: jukebox
+  id: spi
+  name: "спят усталые игрушки"
+  path:
+    path: '/Audio/_Construct/Jukebox/spi.ogg'
+
+- type: jukebox
+  id: Tavaszi_Seta
+  name: "Tavaszi Seta"
+  path:
+    path: '/Audio/_Construct/Jukebox/Tavaszi_Seta.ogg'
+
+- type: jukebox
+  id: Vals
+  name: "Осенний Вальз"
+  path:
+    path: '/Audio/_Construct/Jukebox/Vals.ogg'
+
+- type: jukebox
+  id: Vse_Budet
+  name: "Всё Будет"
+  path:
+    path: '/Audio/_Construct/Jukebox/Vse_Budet.ogg'

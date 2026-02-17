@@ -1,0 +1,20 @@
+#FIGURKI
+- type: entity
+  parent: BaseFigurine
+  id: ToyFigurineSuslik
+  name: Странный суслик
+  description: Если вы его видите, не берите его варп-камень.
+  components:
+  - type: Sprite
+    sprite: _Construct/Objects/Fun/figurines.rsi
+    state: suslik
+  - type: SpeakOnTrigger
+    pack: FigurinesSuslik
+
+#DATASET
+
+- type: localizedDataset
+  id: FigurinesSuslik
+  values:
+    prefix: figurines-suslik-
+    count: 4
